@@ -1,13 +1,14 @@
 [
 null,
-{"id":1,"expanded":true,"name":"世界 1","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":2,"expanded":false,"name":"城堡","order":2,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
-{"id":3,"expanded":false,"name":"城堡 1F","order":3,"parentId":2,"scrollX":0,"scrollY":0,"quick":false},
-{"id":4,"expanded":false,"name":"城堡 3F","order":4,"parentId":2,"scrollX":0,"scrollY":0,"quick":false},
-{"id":5,"expanded":true,"name":"普通城鎮","order":5,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
-{"id":6,"expanded":false,"name":"酒吧","order":6,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
-{"id":7,"expanded":false,"name":"武器商店","order":7,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
-{"id":8,"expanded":false,"name":"盔甲商店","order":8,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
-{"id":9,"expanded":false,"name":"道具商店","order":9,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
-{"id":10,"expanded":false,"name":"旅館 1F","order":10,"parentId":5,"scrollX":0,"scrollY":0,"quick":false}
+{"id":1,"expanded":true,"name":"世界 1","order":1,"parentId":0,"scrollX":1216.5,"scrollY":692.25,"quick":false},
+{"id":2,"expanded":false,"name":"城堡","order":2,"parentId":1,"scrollX":1136,"scrollY":1516,"quick":false},
+{"id":3,"expanded":false,"name":"城堡 1F","order":4,"parentId":2,"scrollX":1216.5,"scrollY":1083.75,"quick":false},
+{"id":4,"expanded":false,"name":"城堡 2F","order":5,"parentId":2,"scrollX":1216.5,"scrollY":1227.75,"quick":false},
+{"id":5,"expanded":false,"name":"普通城鎮","order":6,"parentId":1,"scrollX":1216.5,"scrollY":692.25,"quick":false},
+{"id":6,"expanded":false,"name":"酒吧","order":7,"parentId":5,"scrollX":1216.5,"scrollY":692.25,"quick":false},
+{"id":7,"expanded":false,"name":"武器商店","order":8,"parentId":5,"scrollX":816,"scrollY":624,"quick":false},
+{"id":8,"expanded":false,"name":"盔甲商店","order":9,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
+{"id":9,"expanded":false,"name":"道具商店","order":10,"parentId":5,"scrollX":816,"scrollY":624,"quick":false},
+{"id":10,"expanded":false,"name":"旅館 1F","order":11,"parentId":5,"scrollX":816,"scrollY":624,"quick":false},
+{"id":11,"expanded":false,"name":"城堡前廳","order":3,"parentId":2,"scrollX":1216.5,"scrollY":692.25,"quick":false}
 ]
